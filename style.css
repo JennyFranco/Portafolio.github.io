@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    border-width: 9px;
+    border-style:double;
+    border-color: #faafc6;
+
+}
+div{
+ background-color: darksalmon;
+}
+
+#Parrafo-1,#Parrafo-2,#Parrafo-3{
+    background-color:
+
+
+}
+.Tipos-de-gatos{
+    color: paleturquoise;
+}
